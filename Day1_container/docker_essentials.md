@@ -23,7 +23,7 @@ Docker is a platform for developing, shipping, and running applications inside c
 - Created using `Dockerfile` and stored in repositories.
 
 ### 5. Docker Containers
-![docker container](Day1/docker1.png)
+![docker container](docker1.jpg)
 - Running instances of Docker images.
 - Can be started, stopped, and deleted.
 
@@ -47,7 +47,7 @@ Docker is a platform for developing, shipping, and running applications inside c
 
 ## **Docker Architecture**
 
-![docker architecture](Day1/docker2.png)
+![docker architecture](docker2.png)
 
 Docker follows a **client-server architecture**, consisting of:
 
