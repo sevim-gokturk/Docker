@@ -1,4 +1,4 @@
-# Hands-on Docker-02 : Docker Container Basic Operations
+# Docker Container Basic Operations
 
 Purpose of the this hands-on training is to give students the knowledge of basic operation on Docker containers.
 
