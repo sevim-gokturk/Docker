@@ -32,9 +32,6 @@ At the end of the this hands-on training, students will be able to;
 
 - Part 4 - Using Same Volume with Different Containers
 
-- Part 5 - docker volume behaviours
-
-- Part 6 - Bind Mounts
 
 ## Part 1 - Launch a Docker Machine Instance and Connect with SSH
 
