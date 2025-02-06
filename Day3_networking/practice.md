@@ -1,4 +1,4 @@
-# Hands-on Docker-04 : Docker Networking
+# Docker Networking
 
 Purpose of the this hands-on training is to give the student understanding to networking in Docker.
 
